@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/micro-app-simple-calculator/static/css/main.b37a5160.css",
+    "main.js": "/micro-app-simple-calculator/static/js/main.fdc0bbe7.js",
+    "index.html": "/micro-app-simple-calculator/index.html",
+    "main.b37a5160.css.map": "/micro-app-simple-calculator/static/css/main.b37a5160.css.map",
+    "main.fdc0bbe7.js.map": "/micro-app-simple-calculator/static/js/main.fdc0bbe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37a5160.css",
+    "static/js/main.fdc0bbe7.js"
+  ]
+}
